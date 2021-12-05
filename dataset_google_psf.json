@@ -1,0 +1,9 @@
+{
+    "mapping": [
+        "Yes_no_dataset\\no",
+        "Yes_no_dataset\\yes"
+    ],
+    "labels": [],
+    "MFCCs": [],
+    "files": []
+}
